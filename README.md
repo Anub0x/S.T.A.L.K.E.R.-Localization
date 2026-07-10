@@ -1,5 +1,5 @@
 # S.T.A.L.K.E.R. Localization Repository
-A localization repository of the mainline *S.T.A.L.K.E.R.* series games. It's recommended to download the required files and use them in a text editor like Notepad++.
+A localization repository of the mainline *S.T.A.L.K.E.R.* series games. It's recommended to download the required files (required for *Heart of Chornobyl* due to size) and use them in a text editor like Notepad++.
 ## .XML Formatted
 - S.T.A.L.K.E.R.: Shadow of Chornobyl
 - S.T.A.L.K.E.R.: Clear Sky
